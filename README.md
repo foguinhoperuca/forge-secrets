@@ -1,2 +1,3 @@
-# forge-secrets
-Example to use in forge repos to store secrets
+# Forge Secrets #
+
+Example to use in forge repos to store secrets.
